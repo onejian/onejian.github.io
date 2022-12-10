@@ -6,7 +6,7 @@
   <link href="https://onejian.github.io/atom.xml" rel="self"/>
   
   <link href="https://onejian.github.io/"/>
-  <updated>2022-12-08T15:53:10.473Z</updated>
+  <updated>2022-12-10T14:34:04.838Z</updated>
   <id>https://onejian.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://onejian.github.io/posts/0.html"/>
     <id>https://onejian.github.io/posts/0.html</id>
     <published>2022-12-07T04:40:00.000Z</published>
-    <updated>2022-12-08T15:53:10.473Z</updated>
+    <updated>2022-12-10T14:34:04.838Z</updated>
     
     <content type="html"><![CDATA[<div class="note red icon-padding simple"><i class="note-icon fas fa-fan"></i><p>文章封面图是早几年的广州，那会站在珠江边，风景独好。</p></div><h1 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h1><p>折腾了好久，还算是比较符合当下的需求，剩下的细节等以后慢慢再优化了。之前用的是 <strong>Halo</strong> 框架搭建的博客，搭配<del>一点都不良心</del>的良心云 <strong>CloudBase</strong> 。这种方法挺适合我这种菜鸟的，但主题自定义程度不高，有些需求没办法满足。加上良心云改了价格策略，之前买的套餐都不算数了，无奈先用 <strong>Hexo</strong> 试试，后面视情况再决定要不要回去。 </p><h1 id="待更新"><a href="#待更新" class="headerlink" title="待更新"></a>待更新</h1><p>博客大体的功能需求已经实现了，接下来要更新的地方也不多，主要有以下几个方面：<br><div class='checkbox green'><input type="checkbox" />            <p>博客评论部署</p>            </div><br><div class='checkbox green'><input type="checkbox" />            <p>Vercel部署</p>            </div><br><div class='checkbox green'><input type="checkbox" />            <p>影视阅读相册优化</p>            </div><br>其他细节待添加……</p>]]></content>
     
@@ -46,7 +46,7 @@
     <link href="https://onejian.github.io/posts/39052ad4.html"/>
     <id>https://onejian.github.io/posts/39052ad4.html</id>
     <published>2022-12-01T11:30:00.000Z</published>
-    <updated>2022-12-08T15:53:10.473Z</updated>
+    <updated>2022-12-10T14:34:04.838Z</updated>
     
     <content type="html"><![CDATA[<h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><p>花了两天多的时间，从头搭建了 Hexo 博客。从各种 Bug 到成功运行，没基础的菜鸟也算是进阶成为小白了。往后几天，会继续对博客进行完善，也会把原有的文章逐渐迁移到这里。</p><p>不过，对于 Hexo 的初次使用者，要想熟练运用，还得多琢磨琢磨，这还得花点时间。但本意并不在表面，到了一定程度会停止优化博客，以便把重心放在写作与记录上。</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>广州的疫情形势，还是很严峻的。虽说政策放松，但主要方向并没有发生变化。对于未来的形势发展，还是保持较为乐观的态度。不论态势如何发展，始终都要记住：<strong>每个人都是自己健康的第一责任人。做好防护措施，保护好自己</strong>。</p>]]></content>
     
