@@ -317,3 +317,7 @@ li.card-archive-list-item {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+.relatedPosts > .relatedPosts-list > div {
+  border-radius: 20px;
+  border: 1px #49b1f5 solid;
+}
