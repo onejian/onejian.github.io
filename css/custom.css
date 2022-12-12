@@ -317,7 +317,22 @@ li.card-archive-list-item {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+/* 文章页面文章推荐图 */
 .relatedPosts > .relatedPosts-list > div {
   border-radius: 20px;
   border: 1px #49b1f5 solid;
+}
+/* 归档文章封面图 */
+.article-sort-item-img {
+  border-radius: 10px;
+  border: 2px #49b1f5 solid;
+  height: 80px;
+  width: 150px;
+}
+/* 侧边栏最新文章 */
+#aside-content .aside-list > .aside-list-item .thumbnail {
+  border-radius: 10px;
+  border: 0.5px #49b1f5 solid;
+  width: 102px;
+  height: 68px;
 }
