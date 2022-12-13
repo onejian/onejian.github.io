@@ -336,3 +336,9 @@ li.card-archive-list-item {
   width: 102px;
   height: 68px;
 }
+/* 卡片标签外挂 */
+.stars_box {
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+}
