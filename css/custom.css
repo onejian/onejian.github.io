@@ -4,6 +4,7 @@
     width: fit-content !important;
     left: 50% !important;
     transform: translateX(-50%) !important;
+    bottom: 12px;
   }
   /* 子菜单横向展示 */
   #nav .menus_items .menus_item:hover .menus_item_child {
