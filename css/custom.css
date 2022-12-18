@@ -80,7 +80,7 @@
   transform: rotate(-180deg);
 }
 :root {
-  --trans-light: rgba(232, 243, 240, 0.92);
+  --trans-light: rgba(246, 255, 253, 0.95);
   --trans-dark: rgba(25, 25, 25, 0.92);
   --border-style: 1px solid rgb(169, 169, 169);
   --backdrop-filter: blur(5px) saturate(150%);
@@ -344,15 +344,15 @@ li.card-archive-list-item {
   flex-wrap: wrap;
 }
 /* 分类、标签索引页 */
-.category-cards{
+.category-cards {
   display: flex;
   padding: 20px;
   flex-wrap: wrap;
 }
 
-.category-card{
+.category-card {
   margin: 0.5rem;
-  width: 225px;
+  width: calc(33.3333% - 1rem);
   position: relative;
   height: 300px;
   border-radius: 20px;
@@ -379,7 +379,7 @@ li.card-archive-list-item {
   transition: 0.5s;
 }
 
-.card-front-img{
+.card-front-img {
   width: 100%;
   height: 90%;
   position: absolute;
@@ -415,7 +415,7 @@ li.card-archive-list-item {
   font-size: 16px;
 }
 
-.category-card-back > a:not(.card-back-more){
+.category-card-back > a:not(.card-back-more) {
   position: absolute;
   width: 100%;
   height: 100%;
@@ -424,43 +424,43 @@ li.card-archive-list-item {
   z-index: -1;
 }
 
-.card-back-title{
+.card-back-title {
   border-bottom: none;
   color: #fff;
 }
 
-.card-back-content{
+.card-back-content {
   padding: 5px;
   margin: 0;
 }
 
-.card-back-content li{
+.card-back-content li {
   list-style: none;
   margin: 2px 5px; 
   margin: 8px 0;
 }
 
-.card-back-content a{
+.card-back-content a {
   color: #fff ;
   border-bottom: 2px solid #fff;
-  transition: .3s;
+  transition: 0.3s;
   padding: 5px 3px 3px 3px;
 }
 
-.card-back-content a:hover{
+.card-back-content a:hover {
   background: #fff;
   color: rgb(39, 39, 39);
   border-radius: 8px;
 }
 
-.card-back-more{
+.card-back-more {
   position: absolute;
   right: 25px;
   bottom: 25px;
   color: #fff!important;
 }
 
-.card-back-more::after{
+.card-back-more::after {
   content: '';
   position: relative;
   width: 0;
@@ -473,11 +473,11 @@ li.card-archive-list-item {
   transition: 0.3s;
 }
 
-.card-back-more:hover::after{
+.card-back-more:hover::after {
   width: 130%;
 }
 
-.category-card:hover .category-card-front{
+.category-card:hover .category-card-front {
   transform: rotateY(-180deg);
 }
 
