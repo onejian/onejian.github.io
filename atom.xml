@@ -6,7 +6,7 @@
   <link href="https://hongking.online/atom.xml" rel="self"/>
   
   <link href="https://hongking.online/"/>
-  <updated>2022-12-22T13:45:12.683Z</updated>
+  <updated>2022-12-22T15:05:43.592Z</updated>
   <id>https://hongking.online/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://hongking.online/posts/2a392ab2.html"/>
     <id>https://hongking.online/posts/2a392ab2.html</id>
     <published>2022-12-16T17:41:12.000Z</published>
-    <updated>2022-12-22T13:45:12.683Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<p>本文为完善分类页面需求而暂时创建的文章。</p>]]></content>
     
@@ -42,7 +42,7 @@
     <link href="https://hongking.online/posts/db17d765.html"/>
     <id>https://hongking.online/posts/db17d765.html</id>
     <published>2022-12-16T17:40:54.000Z</published>
-    <updated>2022-12-22T13:45:12.687Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<p>本文为完善分类页面需求而暂时创建的文章。</p>]]></content>
     
@@ -63,7 +63,7 @@
     <link href="https://hongking.online/posts/7943b1e3.html"/>
     <id>https://hongking.online/posts/7943b1e3.html</id>
     <published>2022-12-16T17:40:29.000Z</published>
-    <updated>2022-12-22T13:45:12.687Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<p>本文为完善分类页面需求而暂时创建的文章。</p>]]></content>
     
@@ -84,7 +84,7 @@
     <link href="https://hongking.online/posts/19cd3efe.html"/>
     <id>https://hongking.online/posts/19cd3efe.html</id>
     <published>2022-12-16T17:31:19.000Z</published>
-    <updated>2022-12-22T13:45:12.687Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<p>本文为完善分类页面需求而暂时创建的文章。</p>]]></content>
     
@@ -105,7 +105,7 @@
     <link href="https://hongking.online/posts/a8b38d26.html"/>
     <id>https://hongking.online/posts/a8b38d26.html</id>
     <published>2022-12-10T15:39:47.000Z</published>
-    <updated>2022-12-22T13:45:12.683Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<div class="note green icon-padding simple"><i class="note-icon fas fa-fan"></i><p>文章封面是今年六月从广州返家，在途中经过的大桥上拍的，点点星光，驶向前方。</p></div><h1 id="为什么又建站"><a href="#为什么又建站" class="headerlink" title="为什么又建站"></a>为什么又建站</h1><p>最开始的博客，是疫情初期搭建的。那会疫情严重，一直居家。闲来无事，便用最流行的 WordPress 框架，搭建了人生中的第一个博客。这也是我第一次接触博客，第一次购买服务器，购买域名。靠着百度上的各种杂七杂八的教程，竟然也能成功实现了自主博客的小愿望。博客搭起来后，半只脚就踏进了「小众圈子」。从此开始博客的折腾之旅。</p><p>博客用的服务器是阿里云的新人优惠套餐，当初买的时候，服务器和域名加起来也就百来块钱。一年的服务器，三年的域名，看不到头的折腾。现在回头看，不得不说，大厂的营销策略，还是始终如一：<strong>新用户是宝，老用户是草</strong>。这割羊毛的手段也是沿用至今，屡试不爽。一年后，服务器到期，遂放弃续费（<del>太贵了</del>没钱了）。而后，把博客的文章，全部迁移至阿里旗下的语雀平台。  </p><p>直至去年 10 月，遇见了 Halo 框架。那会的 Halo 框架还是 1.x 版本，功能也比较齐全，对新手很友好，官方文档也提供了不同的部署方式。于是，便采用良心云 CloudBase 的方式，把新的博客托管在良心云开发上。按量计费的云开发环境，每个月也花不了多少钱，尤其对于小站，极其友好。可好景不长，今年 8 月，良心云宣布要改变套餐模式，价格策略也跟着变了。取消按量计费，设置 19.9 元的最低标准套餐。可我原来每个月的花费也才不到 7 块钱，这下子无形增加了非必要支出。良心云也不再良心了。</p><p>为了给自己找个地，把目标转向了 Hexo 框架，也就是现在的博客。从搭建到优化，花了差不多有一周多的时间。因为没有接触过 Hexo，后面在搭建、优化的过程中不断出 bug，还好在各种教程、群里的大佬的帮助下，一一化解。目前的博客，采用 <strong>Hexo+Butterfly</strong> 主题，在原有博客的基础上，优化了很多内容。因为是魔改，改动的地方比较多，后面基本不会考虑升级博客主题版本，也希望能够坚持下去。</p><h1 id="该怎样理解并把握需求"><a href="#该怎样理解并把握需求" class="headerlink" title="该怎样理解并把握需求"></a>该怎样理解并把握需求</h1><p>都说「一直魔改一直爽」，各位大佬诚不我欺。搭建博客之后，便跟着网上各路大佬的教程，开启了菜鸟小白的升级打野之路，直至撰写本文时，仍在魔改博客的主题样式。今天闲暇之余，回头看了一下，发现自己对于博客的定位和需求，存在不小问题。趁着思路还比较清晰，写了博客的结构和内容框架。理清了博客搭建的思路、目的，与实际需求之前的关系。我想，这对于运营小站，很有帮助。至少，在「一直魔改一直爽」的路上，不至于迷失方向，失守本心。</p><p>当然，本站的定位也不是<strong>阳春白雪，曲高和寡</strong>。一切回到最开始的时候，也仅仅是为了记录生活，直至今天，还是如此。但这并不意味着博客不再优化，而是在满足基本需求的前提下，不断地进行调整，也会把重心放在更重要的内容上，<strong>透过朴实的文字看平凡人生，你我皆是星光下的赶路人</strong>。</p>]]></content>
     
@@ -126,7 +126,7 @@
     <link href="https://hongking.online/posts/0.html"/>
     <id>https://hongking.online/posts/0.html</id>
     <published>2022-12-07T04:40:00.000Z</published>
-    <updated>2022-12-22T13:45:12.683Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<div class="note red icon-padding simple"><i class="note-icon fas fa-fan"></i><p>文章封面图是早几年的广州，那会站在珠江边，风景独好。</p></div><h1 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h1><p>折腾了好久，还算是比较符合当下的需求，剩下的细节等以后慢慢再优化了。之前用的是 <strong>Halo</strong> 框架搭建的博客，搭配<del>一点都不良心</del>的良心云 <strong>CloudBase</strong> 。这种方法挺适合我这种菜鸟的，但主题自定义程度不高，有些需求没办法满足。加上良心云改了价格策略，之前买的套餐都不算数了，无奈先用 <strong>Hexo</strong> 试试，后面视情况再决定要不要回去。 </p><h1 id="待更新"><a href="#待更新" class="headerlink" title="待更新"></a>待更新</h1><p>博客大体的功能需求已经实现了，接下来要更新的地方也不多，主要有以下几个方面：<br><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>博客评论部署</p>            </div><br><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>Vercel部署</p>            </div><br><div class='checkbox green checked'><input type="checkbox" checked="checked"/>            <p>影视阅读相册优化</p>            </div><br>其他细节待添加……</p>]]></content>
     
@@ -151,7 +151,7 @@
     <link href="https://hongking.online/posts/39052ad4.html"/>
     <id>https://hongking.online/posts/39052ad4.html</id>
     <published>2022-12-01T11:30:00.000Z</published>
-    <updated>2022-12-22T13:45:12.687Z</updated>
+    <updated>2022-12-22T15:05:43.592Z</updated>
     
     <content type="html"><![CDATA[<h2 id="博客"><a href="#博客" class="headerlink" title="博客"></a>博客</h2><p>花了两天多的时间，从头搭建了 Hexo 博客。从各种 Bug 到成功运行，没基础的菜鸟也算是进阶成为小白了。往后几天，会继续对博客进行完善，也会把原有的文章逐渐迁移到这里。</p><p>不过，对于 Hexo 的初次使用者，要想熟练运用，还得多琢磨琢磨，这还得花点时间。但本意并不在表面，到了一定程度会停止优化博客，以便把重心放在写作与记录上。</p><h2 id="生活"><a href="#生活" class="headerlink" title="生活"></a>生活</h2><p>广州的疫情形势，还是很严峻的。虽说政策放松，但主要方向并没有发生变化。对于未来的形势发展，还是保持较为乐观的态度。不论态势如何发展，始终都要记住：<strong>每个人都是自己健康的第一责任人。做好防护措施，保护好自己</strong>。</p>]]></content>
     
