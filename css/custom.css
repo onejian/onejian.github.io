@@ -490,3 +490,35 @@ li.card-archive-list-item {
       width: 100%;
   }
 }
+/* 相册页 */
+.fj-gallery { 
+  position: relative; 
+  overflow: hidden; 
+  height: 2857.59px;
+}
+.fj-gallery::after { 
+  content: ""; 
+  display: block; 
+  clear: both; 
+}
+.fj-gallery .fj-gallery-item { 
+  float: left; 
+  top: 0px; 
+  left: 0px; 
+}
+.fj-gallery .fj-gallery-item > img { 
+  display: block; 
+  width: 100%; 
+  height: auto; 
+}
+#article-container a img {
+  border-radius:10px;
+}
+#article-container img {
+  display: block;
+  margin: 0 auto 20px;
+  max-width: 100%;
+  -webkit-transition: filter 375ms ease-in .2s;
+  -moz-transition: filter 375ms ease-in .2s;-o-transition:filter 375ms ease-in .2s;
+  -ms-transition: filter 375ms ease-in .2s;transition:filter 375ms ease-in .2s;
+}
